@@ -13,3 +13,7 @@ x = float(input("Enter three values : "))
 y = float(input())
 z = float(input())
 print(typeTriangle(x, y, z))
+
+
+print(typeTriangle(3, 4, 5))
+
