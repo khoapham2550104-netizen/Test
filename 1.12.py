@@ -3,3 +3,4 @@ even = list(filter(lambda a : a %2 ==0 , list_num))
 print(even)
 
 print(list(map(lambda a : a*2 , list_num)))
+print(list(map(lambda a : a*2 , filter(lambda a : a %2 ==0 , list_num))))
