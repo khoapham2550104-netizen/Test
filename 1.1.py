@@ -17,3 +17,4 @@ print(typeTriangle(x, y, z))
 
 print(typeTriangle(3, 4, 5))
 
+print(typeTriangle(2, 2, 2))
